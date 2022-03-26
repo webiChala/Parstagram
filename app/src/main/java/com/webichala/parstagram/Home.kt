@@ -18,6 +18,7 @@ class Home : AppCompatActivity() {
             ParseUser.logOut()
             val intent = Intent(this, LoginActivity::class.java)
             startActivity(intent)
+            finish()
         }
         findViewById<Button>(R.id.create_post).setOnClickListener {
             val intent = Intent(this, CreatePostActivity::class.java)
