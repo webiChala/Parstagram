@@ -16,6 +16,10 @@ class Post : ParseObject() {
         put(KEY_Description, description)
     }
 
+    fun getImage():ParseFile?{
+        return getParseFile(KEY_IMAGE)
+    }
+
     fun setImage(parseFile: ParseFile){
         put(KEY_IMAGE, parseFile)
     }

@@ -1,12 +1,9 @@
 package com.webichala.parstagram
 
-import android.app.Activity
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
-import androidx.activity.result.ActivityResultLauncher
-import androidx.activity.result.contract.ActivityResultContracts
 import com.parse.ParseUser
 
 class Home : AppCompatActivity() {
@@ -21,7 +18,7 @@ class Home : AppCompatActivity() {
             finish()
         }
         findViewById<Button>(R.id.create_post).setOnClickListener {
-            val intent = Intent(this, CreatePostActivity::class.java)
+            val intent = Intent(this, MainActivity::class.java)
             startActivity(intent)
 
         }

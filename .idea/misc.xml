@@ -5,7 +5,11 @@
       <map>
         <entry key="..\:/Users/webie/Desktop/AndroidAppKotlinProject/Parstagram/app/src/main/res/layout/activity_home.xml" value="0.16" />
         <entry key="..\:/Users/webie/Desktop/AndroidAppKotlinProject/Parstagram/app/src/main/res/layout/activity_login.xml" value="0.2203125" />
-        <entry key="..\:/Users/webie/Desktop/AndroidAppKotlinProject/Parstagram/app/src/main/res/layout/activity_main.xml" value="0.20052083333333334" />
+        <entry key="..\:/Users/webie/Desktop/AndroidAppKotlinProject/Parstagram/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Users/webie/Desktop/AndroidAppKotlinProject/Parstagram/app/src/main/res/layout/fragment_compose.xml" value="0.1" />
+        <entry key="..\:/Users/webie/Desktop/AndroidAppKotlinProject/Parstagram/app/src/main/res/layout/fragment_feed.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/webie/Desktop/AndroidAppKotlinProject/Parstagram/app/src/main/res/layout/item_post.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/webie/Desktop/AndroidAppKotlinProject/Parstagram/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.264" />
         <entry key="..\:/Users/webie/Desktop/AndroidAppKotlinProject/Parstagram/app/src/main/res/xml/fileprovider.xml" value="0.20052083333333334" />
       </map>
     </option>
